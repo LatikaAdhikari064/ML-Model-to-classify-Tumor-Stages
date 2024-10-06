@@ -6,11 +6,16 @@ Public URL of Tumor Stage Classification:
 Description:
 This website is designed to Classify the stage of tumor using the following input:
 
-1.Age
+1.Age  
+
 2.HER2_status
+
 3.Histology_Infiltrating_Ductal_Carcinoma
+
 4.Histology_Infiltrating_Lobular_Carcinoma
+
 5.Histology_Mucinous_Carcinoma The outputs of website are as:
+
 0 -> Stage1
 
 1 -> Stage2
@@ -18,6 +23,7 @@ This website is designed to Classify the stage of tumor using the following inpu
 2 -> Stage3
 
 Accuracy:
+
 The model is 68.98% accurate.
 
 
